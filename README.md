@@ -140,7 +140,7 @@ Analyzes:
 
 ## 📷 Dashboard
 
-Add screenshots of the four Power BI pages here.
+screenshots
 
 ## 👩‍💻 Skills Demonstrated
 
