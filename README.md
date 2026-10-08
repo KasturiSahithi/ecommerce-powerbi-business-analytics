@@ -137,10 +137,21 @@ Analyzes:
 - Strengthen high-performing organic acquisition strategies.
 - Analyze return reasons and high-return products.
 - Evaluate products using both revenue and profitability metrics.
+  
 
-## 📷 Dashboard
+## 📊 Dashboard Screenshots
 
-screenshots
+### 1. Executive Overview
+![Executive Overview](screenshots/executive%20overview.jpeg)
+
+### 2. Customer Analytics
+![Customer Analytics](screenshots/Customer%20Analytics.jpeg)
+
+### 3. Operations & Delivery
+![Operations & Delivery](screenshots/Operations%20%26%20Delivery.jpeg)
+
+### 4. Product & Profitability
+![Product & Profitability](screenshots/Product%20%26%20Profitability.jpeg)
 
 ## 👩‍💻 Skills Demonstrated
 
