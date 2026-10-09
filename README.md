@@ -160,7 +160,11 @@ Data Visualization | KPI Analysis | Customer Analytics |
 Business Analytics | Profitability Analysis
 
 ##  Author
-*Kasturi Sahithi*  
+*Kasturi Sahithi* 
+
 📧 [Kasturisahithi068@gmail.com]
+
 🌐 (https://www.linkedin.com/in/sahithi-kasturi) 
+
 💻 [GitHub Profile](KasturiSahithi)
+
