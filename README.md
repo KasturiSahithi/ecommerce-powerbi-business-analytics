@@ -158,3 +158,9 @@ Analyzes:
 Power BI | Power Query | DAX | Data Modeling | Data Cleaning |
 Data Visualization | KPI Analysis | Customer Analytics |
 Business Analytics | Profitability Analysis
+
+##  Author
+*Kasturi Sahithi*  
+📧 [Kasturisahithi068@gmail.com]
+🌐 (https://www.linkedin.com/in/sahithi-kasturi) 
+💻 [GitHub Profile](KasturiSahithi)
